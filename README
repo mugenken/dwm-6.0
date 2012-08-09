@@ -1,6 +1,6 @@
 
 Source from http://dwm.suckless.org/
-
+Gentoo ebuild at https://github.com/mugenken/mk-overlay/tree/48dddb0b5fe9a0cd686ebb67206824dbb773712a/x11-wm/dwm-mk
 
 dwm - dynamic window manager
 ============================
